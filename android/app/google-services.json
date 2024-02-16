@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941134192692",
+    "project_id": "vote-app-7bacd",
+    "storage_bucket": "vote-app-7bacd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941134192692:android:5e0fe966812b1d0d00aa61",
+        "android_client_info": {
+          "package_name": "com.gilanhaq.jangangolputyukkapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-YlmojEreuCzGT6YENdGgBixRCWcjmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
